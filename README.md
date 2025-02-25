@@ -159,4 +159,6 @@ This API allows users to register, authenticate, and interact with inventions. I
 
 The `ML-Model` directory contains a simple demonstration of a machine learning model that predicts the success of an invention based on input features. This is a basic implementation, and additional complexity can be introduced as needed. Check the `ML-Model` directory for details on running the model and testing its capabilities.
 
+Additionally, the model is being enhanced to include preparing instructions for tools like `Figma/Motiff` for design, based on multiple user requirements.
+
 ---
