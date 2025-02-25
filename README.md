@@ -205,9 +205,3 @@ The ML model can be integrated into the server-side API to evaluate inventions d
 
 ---
 
-## Contributing
-Feel free to contribute by opening an issue or submitting a pull request!
-
-## License
-MIT License
-
